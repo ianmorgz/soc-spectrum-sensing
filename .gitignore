@@ -183,3 +183,4 @@ cython_debug/
 # User ignore
 .venv
 /data/*.bin
+.DS_Store
